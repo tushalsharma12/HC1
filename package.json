@@ -11,9 +11,6 @@
     "start": "vite",
     "postinstall": "chmod +x node_modules/.bin/*"
   },
-  "engines": {
-  "node": "16.x"
-},
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
